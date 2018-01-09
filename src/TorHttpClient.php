@@ -4,7 +4,7 @@ namespace TorHttpClient;
 use TorHttpClient\Helper\UserAgentHelper;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\RequestOptions;
-use Psr\Http\Mssage\RequestInterface;
+use Psr\Http\Message\RequestInterface;
 
 class TorHttpClient implements ClientInterface
 {
