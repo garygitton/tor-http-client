@@ -1,5 +1,5 @@
 <?php
-namespace Common\Helper;
+namespace TorHttpClient\Helper;
 
 class UserAgentHelper
 {
